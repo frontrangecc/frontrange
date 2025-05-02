@@ -19,7 +19,7 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --global user.name scottdavis99
+          git config --global user.name scott-frcc
           git config --global user.email scott.davis@frontrange.edu
           git add .
           git commit -m "Desktop Lighthouse audit data"

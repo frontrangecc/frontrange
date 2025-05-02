@@ -1,0 +1,91 @@
+[
+  {
+    "id": "tabindex",
+    "title": "Some elements have a `[tabindex]` value greater than 0",
+    "description": "A value greater than 0 implies an explicit navigation ordering. Although technically valid, this often creates frustrating experiences for users who rely on assistive technologies. [Learn more about the `tabindex` attribute](https://dequeuniversity.com/rules/axe/4.10/tabindex).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-A",
+            "path": "1,HTML,1,BODY,1,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,7,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 1607,
+              "bottom": 1632,
+              "left": 654,
+              "right": 748,
+              "width": 94,
+              "height": 25
+            },
+            "snippet": "<a tabindex=\"11\" href=\"/programs-courses/program-list/engineering/index.html\">",
+            "nodeLabel": "engineering",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-A",
+            "path": "1,HTML,1,BODY,1,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,15,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 2188,
+              "bottom": 2238,
+              "left": 470,
+              "right": 1251,
+              "width": 781,
+              "height": 50
+            },
+            "snippet": "<a tabindex=\"13\" href=\"/student-experience/academic-support/academic-success-centers/index.html\">",
+            "nodeLabel": "student success center",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-A",
+            "path": "1,HTML,1,BODY,1,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,18,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 2485,
+              "bottom": 2536,
+              "left": 470,
+              "right": 1312,
+              "width": 842,
+              "height": 50
+            },
+            "snippet": "<a tabindex=\"14\" href=\"/programs-courses/program-list/mathematics.html\">",
+            "nodeLabel": "FRCC math",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 3
+  }
+]

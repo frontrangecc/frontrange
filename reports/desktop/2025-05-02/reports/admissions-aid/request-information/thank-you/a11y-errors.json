@@ -1,0 +1,72 @@
+[
+  {
+    "id": "image-redundant-alt",
+    "title": "Image elements have `[alt]` attributes that are redundant text.",
+    "description": "Informative elements should aim for short, descriptive alternative text. Alternative text that is exactly the same as the text adjacent to the link or image is potentially confusing for screen reader users, because the text will be read twice. [Learn more about the `alt` attribute](https://dequeuniversity.com/rules/axe/4.10/image-redundant-alt).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-IMG",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,2,DIV,0,DIV,0,DIV,2,DIV,1,DIV,0,A,0,DIV,0,DIV,0,IMG",
+            "selector": "a > div.flow > div.frame > img",
+            "boundingRect": {
+              "top": 802,
+              "bottom": 1192,
+              "left": 480,
+              "right": 870,
+              "width": 390,
+              "height": 390
+            },
+            "snippet": "<img loading=\"lazy\" src=\"/_resources/images/admissions-aid/admissions%20aid%20square%20600x600.jpg\" alt=\"admissions &amp; enrollment\" width=\"600\" height=\"600\">",
+            "nodeLabel": "admissions & enrollment",
+            "explanation": "Fix all of the following:\n  Element contains <img> element with alt text that duplicates existing text"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-IMG",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,2,DIV,0,DIV,0,DIV,2,DIV,2,DIV,0,A,0,DIV,0,DIV,0,IMG",
+            "selector": "a > div.flow > div.frame > img",
+            "boundingRect": {
+              "top": 802,
+              "bottom": 1192,
+              "left": 930,
+              "right": 1320,
+              "width": 390,
+              "height": 390
+            },
+            "snippet": "<img loading=\"lazy\" src=\"/_resources/images/about-frcc/financial%20aid%20stat%20600x600.jpg\" alt=\"Paying for College\" width=\"600\" height=\"600\">",
+            "nodeLabel": "Paying for College",
+            "explanation": "Fix all of the following:\n  Element contains <img> element with alt text that duplicates existing text"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "minor",
+        "tags": [
+          "cat.text-alternatives",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn how to provide sufficient color contrast](https://dequeuniversity.com/rules/axe/4.10/color-contrast).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-SPAN",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,0,DETAILS,0,SUMMARY,0,H3,0,SPAN",
+            "selector": "details.bg-primary > summary.accordion__summary > h3.display-heading > span",
+            "boundingRect": {
+              "top": 2332,
+              "bottom": 2370,
+              "left": 60,
+              "right": 317,
+              "width": 257,
+              "height": 38
+            },
+            "snippet": "<span style=\"color: #ffffff;\">",
+            "nodeLabel": "Optics & Laser Technology",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.16 (foreground color: #ffffff, background color: #e8edff, font size: 20.0pt (26.66px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-1-SUMMARY",
+                  "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,0,DETAILS,0,SUMMARY",
+                  "selector": "div.flow > div.accordion > details.bg-primary > summary.accordion__summary",
+                  "boundingRect": {
+                    "top": 2303,
+                    "bottom": 2405,
+                    "left": 30,
+                    "right": 660,
+                    "width": 630,
+                    "height": 101
+                  },
+                  "snippet": "<summary class=\"accordion__summary\">",
+                  "nodeLabel": "Optics & Laser Technology"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-SPAN",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,1,DETAILS,0,SUMMARY,0,H3,0,SPAN",
+            "selector": "details.bg-primary > summary.accordion__summary > h3.display-heading > span",
+            "boundingRect": {
+              "top": 2434,
+              "bottom": 2472,
+              "left": 60,
+              "right": 432,
+              "width": 372,
+              "height": 38
+            },
+            "snippet": "<span style=\"color: #ffffff;\">",
+            "nodeLabel": "Automation & Engineering Technology",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.16 (foreground color: #ffffff, background color: #e8edff, font size: 20.0pt (26.66px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-3-SUMMARY",
+                  "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,1,DETAILS,0,SUMMARY",
+                  "selector": "div.flow > div.accordion > details.bg-primary > summary.accordion__summary",
+                  "boundingRect": {
+                    "top": 2405,
+                    "bottom": 2506,
+                    "left": 30,
+                    "right": 660,
+                    "width": 630,
+                    "height": 101
+                  },
+                  "snippet": "<summary class=\"accordion__summary\">",
+                  "nodeLabel": "Automation & Engineering Technology"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-4-SPAN",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,2,DETAILS,0,SUMMARY,0,H3,0,SPAN",
+            "selector": "details.bg-primary > summary.accordion__summary > h3.display-heading > span",
+            "boundingRect": {
+              "top": 2535,
+              "bottom": 2573,
+              "left": 60,
+              "right": 408,
+              "width": 348,
+              "height": 38
+            },
+            "snippet": "<span style=\"color: #ffffff;\">",
+            "nodeLabel": "Electronics Engineering Technology",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.16 (foreground color: #ffffff, background color: #e8edff, font size: 20.0pt (26.66px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-5-SUMMARY",
+                  "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,2,DETAILS,0,SUMMARY",
+                  "selector": "div.flow > div.accordion > details.bg-primary > summary.accordion__summary",
+                  "boundingRect": {
+                    "top": 2506,
+                    "bottom": 2607,
+                    "left": 30,
+                    "right": 660,
+                    "width": 630,
+                    "height": 101
+                  },
+                  "snippet": "<summary class=\"accordion__summary\">",
+                  "nodeLabel": "Electronics Engineering Technology"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-6-SPAN",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,0,DIV,0,DETAILS,0,SUMMARY,0,H3,0,SPAN",
+            "selector": "details.bg-primary > summary.accordion__summary > h3.display-heading > span",
+            "boundingRect": {
+              "top": 2332,
+              "bottom": 2370,
+              "left": 720,
+              "right": 1034,
+              "width": 314,
+              "height": 38
+            },
+            "snippet": "<span style=\"color: #ffffff;\">",
+            "nodeLabel": "Precision Machining Technology",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.16 (foreground color: #ffffff, background color: #e8edff, font size: 20.0pt (26.66px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-7-SUMMARY",
+                  "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,0,DIV,0,DETAILS,0,SUMMARY",
+                  "selector": "div.flow > div.accordion > details.bg-primary > summary.accordion__summary",
+                  "boundingRect": {
+                    "top": 2303,
+                    "bottom": 2405,
+                    "left": 690,
+                    "right": 1320,
+                    "width": 630,
+                    "height": 101
+                  },
+                  "snippet": "<summary class=\"accordion__summary\">",
+                  "nodeLabel": "Precision Machining Technology"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-8-SPAN",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,0,DIV,1,DETAILS,0,SUMMARY,0,H3,0,SPAN",
+            "selector": "details.bg-primary > summary.accordion__summary > h3.display-heading > span",
+            "boundingRect": {
+              "top": 2434,
+              "bottom": 2472,
+              "left": 720,
+              "right": 915,
+              "width": 195,
+              "height": 38
+            },
+            "snippet": "<span style=\"color: #ffffff;\">",
+            "nodeLabel": "Welding Technology",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.16 (foreground color: #ffffff, background color: #e8edff, font size: 20.0pt (26.66px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "1-9-SUMMARY",
+                  "path": "1,HTML,1,BODY,2,DIV,9,MAIN,4,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,DIV,1,DIV,0,DIV,1,DETAILS,0,SUMMARY",
+                  "selector": "div.flow > div.accordion > details.bg-primary > summary.accordion__summary",
+                  "boundingRect": {
+                    "top": 2405,
+                    "bottom": 2506,
+                    "left": 690,
+                    "right": 1320,
+                    "width": 630,
+                    "height": 101
+                  },
+                  "snippet": "<summary class=\"accordion__summary\">",
+                  "nodeLabel": "Welding Technology"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 5
+  }
+]

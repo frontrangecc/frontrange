@@ -1,0 +1,146 @@
+[
+  {
+    "id": "tabindex",
+    "title": "Some elements have a `[tabindex]` value greater than 0",
+    "description": "A value greater than 0 implies an explicit navigation ordering. Although technically valid, this often creates frustrating experiences for users who rely on assistive technologies. [Learn more about the `tabindex` attribute](https://dequeuniversity.com/rules/axe/4.10/tabindex).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-A",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,7,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 2037,
+              "bottom": 2062,
+              "left": 202,
+              "right": 296,
+              "width": 94,
+              "height": 25
+            },
+            "snippet": "<a tabindex=\"11\" href=\"/programs-courses/program-list/engineering/index.html\">",
+            "nodeLabel": "engineering",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-A",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,15,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 2992,
+              "bottom": 3017,
+              "left": 69,
+              "right": 251,
+              "width": 182,
+              "height": 25
+            },
+            "snippet": "<a tabindex=\"13\" href=\"/student-experience/academic-support/academic-success-centers/index.html\">",
+            "nodeLabel": "student success center",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-3-A",
+            "path": "1,HTML,1,BODY,2,DIV,9,MAIN,2,DIV,1,DIV,1,DIV,0,DIV,18,P,2,A",
+            "selector": "div > div.flow > p > a",
+            "boundingRect": {
+              "top": 3440,
+              "bottom": 3465,
+              "left": 99,
+              "right": 190,
+              "width": 91,
+              "height": 25
+            },
+            "snippet": "<a tabindex=\"14\" href=\"/programs-courses/program-list/mathematics.html\">",
+            "nodeLabel": "FRCC math",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "label-content-name-mismatch",
+    "title": "Elements with visible text labels do not have matching accessible names.",
+    "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.10/label-content-name-mismatch).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-BUTTON",
+            "path": "1,HTML,1,BODY,2,DIV,6,HEADER,0,NAV,1,DIV,0,DIV,0,BUTTON",
+            "selector": "nav > div.c-header__wrap > div#ou-search-div-mobile > button.icon-button",
+            "boundingRect": {
+              "top": 10,
+              "bottom": 48,
+              "left": 16,
+              "right": 52,
+              "width": 36,
+              "height": 37
+            },
+            "snippet": "<button class=\"icon-button bg-primary-glare p-3xs open-drawer md:hidden\" data-popup=\"data-popup\" data-body-overlay=\"left\" aria-label=\"Open Navigation Drawer\">",
+            "nodeLabel": "menu\nmenu",
+            "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.semantics",
+          "wcag21a",
+          "wcag253",
+          "EN-301-549",
+          "EN-9.2.5.3",
+          "experimental"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

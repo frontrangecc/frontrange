@@ -1,0 +1,108 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more about heading order](https://dequeuniversity.com/rules/axe/4.10/heading-order).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-H3",
+            "path": "1,HTML,1,BODY,1,DIV,9,MAIN,2,DIV,0,DIV,1,DIV,0,DIV,3,DIV,0,DETAILS,0,SUMMARY,0,H3",
+            "selector": "div.accordion > details.bg-primary > summary.accordion__summary > h3.display-heading",
+            "boundingRect": {
+              "top": 781,
+              "bottom": 809,
+              "left": 35,
+              "right": 260,
+              "width": 224,
+              "height": 28
+            },
+            "snippet": "<h3 class=\"display-heading font-bold text-step-1\">",
+            "nodeLabel": "You qualify for Colorado ASSET",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "label-content-name-mismatch",
+    "title": "Elements with visible text labels do not have matching accessible names.",
+    "description": "Visible text labels that do not match the accessible name can result in a confusing experience for screen reader users. [Learn more about accessible names](https://dequeuniversity.com/rules/axe/4.10/label-content-name-mismatch).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-BUTTON",
+            "path": "1,HTML,1,BODY,1,DIV,6,HEADER,0,NAV,1,DIV,0,DIV,0,BUTTON",
+            "selector": "nav > div.c-header__wrap > div#ou-search-div-mobile > button.icon-button",
+            "boundingRect": {
+              "top": 10,
+              "bottom": 48,
+              "left": 16,
+              "right": 52,
+              "width": 36,
+              "height": 37
+            },
+            "snippet": "<button class=\"icon-button bg-primary-glare p-3xs open-drawer md:hidden\" data-popup=\"data-popup\" data-body-overlay=\"left\" aria-label=\"Open Navigation Drawer\">",
+            "nodeLabel": "menu\nmenu",
+            "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.semantics",
+          "wcag21a",
+          "wcag253",
+          "EN-301-549",
+          "EN-9.2.5.3",
+          "experimental"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

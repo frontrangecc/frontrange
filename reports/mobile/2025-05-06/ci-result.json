@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.8,
+    "performance": 0.44,
+    "accessibility": 0.96,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/404.html",
+    "score": 0.82,
+    "performance": 0.62,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/accreditation.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/contact-us/index.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/contact-us/web-feedback.html",
+    "score": 0.86,
+    "performance": 0.66,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/becoming-a-hispanic-serving-institution.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/equity-inclusion/land-acknowledgment-statement.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/facts-figures/about-institutional-research.html",
+    "score": 0.9,
+    "performance": 0.8,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/facts-figures/common-data-set.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/facts-figures/fast-facts.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/facts-figures/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/facts-figures/student-outcomes.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/faqs.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/alumni-advisory-committee.html",
+    "score": 0.86,
+    "performance": 0.64,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/annual-giving.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/donate.html",
+    "score": 0.84,
+    "performance": 0.56,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/employee-giving.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/index.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/memorial-scholarships/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/memorial-scholarships/jason-paul-telleen.html",
+    "score": 0.86,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/memorial-scholarships/leah-aylward-scholarship.html",
+    "score": 0.85,
+    "performance": 0.65,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/memorial-scholarships/tasman-frink-scholarship.html",
+    "score": 0.87,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/memorial-scholarships/zack-swanson-scholarship.html",
+    "score": 0.86,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/giving/other-ways-to-give.html",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/golf-tournament/golf-tournament-registration.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/golf-tournament/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/impact-report.html",
+    "score": 0.86,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/leadership.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/frcc-foundation/scholarship-recipients.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/advisor-information.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/index.html",
+    "score": 0.88,
+    "performance": 0.73,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/maximum-tax-benefits.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/stories.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/ways-to-give.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/frcc-foundation/summit-society/your-impact.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/index.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/presidents-office/advisory-council.html",
+    "score": 0.87,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/presidents-office/college-leadership.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/presidents-office/index.html",
+    "score": 0.86,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/about/presidents-office/news-and-events.html",
+    "score": 0.84,
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/presidents-office/supreme-court-statement.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/strategic-plan.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/student-stories/index.html",
+    "score": 0.89,
+    "performance": 0.78,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/student-stories/untitled.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/teaching-excellence/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/teaching-excellence/student-learning-outcomes.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/about/welcome.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/academic-placement/index.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/academic-placement/study-guides.html",
+    "score": 0.85,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/admissions-team/admissions-team.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/admissions-team/bcc.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/admissions-team/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/admissions-team/lc.html",
+    "score": 0.87,
+    "performance": 0.72,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/admissions-team/wc.html",
+    "score": 0.87,
+    "performance": 0.71,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/apply.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/faqs.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/guest.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/high-school-students/index.html",
+    "score": 0.86,
+    "performance": 0.66,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/high-school-students/under-17.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/international/f1-guest-student.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/international/f1-visa-status-change.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/international/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/international/outside-us.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/international/transfer-from-other-us-college.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/new-student-orientation/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/new-student-orientation/student-id.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/new.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/returning.html",
+    "score": 0.85,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/reviews.html",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/getting-started/transfer/index-1.html",
+    "score": 0.85,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/getting-started/transfer/index.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/getting-started/transfer/other-transfer-credit.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/getting-started/undocumented/colorado-immigrant-resources.html",
+    "score": 0.85,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/getting-started/undocumented/index.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/getting-started/veterans.html",
+    "score": 0.85,
+    "performance": 0.6,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/index.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/parents-and-families.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/buying-books.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/asset-student-info.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/college-financing.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/contact.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/awarding-process.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/cares-act-report-disclosure.html",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/code-of-conduct.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/course-of-study.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/index.html",
+    "score": 0.84,
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-basics/satisfactory-academic-progress.html",
+    "score": 0.82,
+    "performance": 0.49,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-tutorials.html",
+    "score": 0.86,
+    "performance": 0.65,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-types/emergency-resources.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-types/index.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-types/parent-plus-loan-application.html",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/financial-aid-types/student-employment-work-study.html",
+    "score": 0.86,
+    "performance": 0.64,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/forms.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/application-review.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/award-review.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/fafsa-changes-workshops.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/file-fafsa.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/funds-disbursement.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/maintain-eligibility.html",
+    "score": 0.85,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/special-unusual-circumstances.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/financial-aid/how-to-apply/submit-documentation.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/refunds/index.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/refunds/refund-calendar.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/career-advance/career-advance-faqs.html",
+    "score": 0.85,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/career-advance/index.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/cosi-grant/index.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/financial-aid-impact.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/frcc-foundation-scholarship/essay.html",
+    "score": 0.85,
+    "performance": 0.6,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/frcc-foundation-scholarship/index.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/high-needs-emergency-scholarship.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/index.html",
+    "score": 0.81,
+    "performance": 0.45,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/listing.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/metallica-scholars.html",
+    "score": 0.85,
+    "performance": 0.66,
+    "accessibility": 0.96,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/ongoing-scholarships.html",
+    "score": 0.85,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/scholarships/opportunity-next.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/student-jobs.html",
+    "score": 0.86,
+    "performance": 0.66,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-discount-programs/cof.html",
+    "score": 0.86,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-discount-programs/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-discount-programs/wue.html",
+    "score": 0.86,
+    "performance": 0.64,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/by-credit-hour.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/cost-of-attendance.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/faqs.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/fees.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/payment-options.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/tuition-rates.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/paying-for-college/tuition-fees/tutorials.html",
+    "score": 0.86,
+    "performance": 0.68,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/prior-learning-credit.html",
+    "score": 0.85,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/request-information/index.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/request-information/thank-you.html",
+    "score": 0.85,
+    "performance": 0.68,
+    "accessibility": 0.99,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/residency/23-or-older.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/american-indian.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/high-school-ged-graduate.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/not-us-citizen.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/other-residency-options.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/under-23.html",
+    "score": 0.87,
+    "performance": 0.71,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/residency/veteran-military.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/student-voices.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/visit-frcc/index.html",
+    "score": 0.88,
+    "performance": 0.74,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/admissions-aid/visit-frcc/thank-you.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions-aid/visit-frcc/wc-virtual-tour.html",
+    "score": 0.86,
+    "performance": 0.65,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/blogs/monica-martinez.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/blogs/quinlyn-sloan.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.97,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/blogs/reece-moellenhoff.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/blogs/zoey-hesnault-thalken.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.97,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/business-community/index.html",
+    "score": 0.89,
+    "performance": 0.76,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/calendar/academic-calendar.html",
+    "score": 0.76,
+    "performance": 0.41,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.85
+  },
+  {
+    "path": "/calendar/admissions-calendar.html",
+    "score": 0.75,
+    "performance": 0.37,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.83
+  },
+  {
+    "path": "/calendar/business-panel.html",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/calendar/career-services-calendar.html",
+    "score": 0.76,
+    "performance": 0.43,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.83
+  },
+  {
+    "path": "/calendar/event-panel.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/calendar/hispanic-heritage.html",
+    "score": 0.85,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/calendar/spring-fling.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/calendar/student-activities-calendar.html",
+    "score": 0.76,
+    "performance": 0.33,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/campuses-online/bcc/bcc-hours.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/bcc/index.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/dining-options.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/faqs.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/index.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/fitness-center.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/hccc.html",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/index.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/lc-hours.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/service-learning/courses.html",
+    "score": 0.87,
+    "performance": 0.67,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/lc/service-learning/index.html",
+    "score": 0.85,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/bcc/administration-building.html",
+    "score": 0.85,
+    "performance": 0.6,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/bcc/center-integrated-manufacturing.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/bcc/classroom-building.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/bcc/index.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/bcc/parking.html",
+    "score": 0.86,
+    "performance": 0.63,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/index.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/blanca-peak.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/challenger-point.html",
+    "score": 0.86,
+    "performance": 0.63,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/little-bear-peak.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/longs-peak.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/maroon-peak.html",
+    "score": 0.86,
+    "performance": 0.66,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/mount-antero.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/red-cloud-peak.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/lc/sunlight-peak.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/index.html",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/level-a.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/level-b-east.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/level-b-west.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/level-c-east.html",
+    "score": 0.84,
+    "performance": 0.56,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/level-c-west.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/maps-and-directions/wc/library.html",
+    "score": 0.87,
+    "performance": 0.69,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/meeting-rooms/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/meeting-rooms/larimer-campus.html",
+    "score": 0.85,
+    "performance": 0.6,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/ccconline-classes.html",
+    "score": 0.86,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 0.92
+  },
+  {
+    "path": "/campuses-online/ol/FAQs.html",
+    "score": 0.84,
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/index.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/my-course-tutorials.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/online-degrees-certificates.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/proctoru.html",
+    "score": 0.88,
+    "performance": 0.71,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  },
+  {
+    "path": "/campuses-online/ol/sara-student-complaint-grievance-process.html",
+    "score": 0.87,
+    "performance": 0.7,
+    "accessibility": 1,
+    "best-practices": 0.79,
+    "seo": 1
+  }
+]
